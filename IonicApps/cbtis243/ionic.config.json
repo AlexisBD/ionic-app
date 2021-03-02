@@ -1,0 +1,7 @@
+{
+  "name": "cbtis243",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
